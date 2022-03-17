@@ -6,7 +6,7 @@ Google Earth Engine, Dünya yüzeyindeki değişiklikleri algılamak, eğilimler
 ## Cloud Computing
 Bulut bilişim yani cloud computing, internet aracılığıyla sağlanan donanım ve yazılımın kullanımını tanımlar. 
 
-Bulut bilişim, uzaktan algılamanın neresine sığar?
+Bulut bilişim, uzaktan algılamanın neresinde?
 
 Hava durumu haritalarının ve yüksek çözünürlüklü uydu tabanlı haritaların çevrimiçi mevcudiyeti göz önüne alındığında, bulut bilişimin uzaktan algılamada zaten düzenli olarak kullanıldığı iddia edilebilir. Bununla birlikte, şu anda bulutta bulunmayan, toplumsal ve ekonomik faydaları olan sayısız başka uzaktan algılama uygulaması vardır.
 
